@@ -1,2 +1,2 @@
 # Tribute-Page
-From freecodecamp.org responsive web design projects
+Simple tribute page from freecodecamp.org responsive web design projects
